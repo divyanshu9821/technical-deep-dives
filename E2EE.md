@@ -1,3 +1,5 @@
+# E2EE using X3DH and Double Ratchet
+
 Every user has the public and private key
 1. Identity Key pair ($IK_{pub}$ , $IK_{priv}$)
 2. Signed pre key pair ($SPK_{pub}$ , $SPK_{priv}$)
