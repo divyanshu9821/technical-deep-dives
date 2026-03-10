@@ -1,4 +1,4 @@
-to make sure that the public keys of the other user provided by the server are actually belong the real keys published by that user on the server
+To make sure that the public keys of the other user provided by the server are actually belong the real keys published by that user on the server
 server is not swapping the keys to perform the MITM (men in the middle attack)
 
 A public immutable ledger is used to provide the proof of the keys suppose there are 8 user 1,2,3,4,5,6,7,8
